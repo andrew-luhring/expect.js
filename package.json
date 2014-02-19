@@ -3,6 +3,14 @@
   , "version": "0.2.0"
   , "description": "BDD style assertions for node and the browser."
   , "main": "./expect"
+  , "bugs": {
+        "url": "https://github.com/LearnBoost/expect.js/issues"
+    }
+  , "homepage": "https://github.com/LearnBoost/expect.js/"
+  , "repository": {
+        "type": "git",
+        "url": "https://github.com/LearnBoost/expect.js.git"
+    }
   , "devDependencies": {
         "mocha": "*"
       , "serve": "*"
